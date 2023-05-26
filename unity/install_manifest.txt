@@ -1,0 +1,7 @@
+/usr/local/lib/libunity.a
+/usr/local/include/unity/unity.h
+/usr/local/include/unity/unity_internals.h
+/usr/local/lib/cmake/unity/unityTargets.cmake
+/usr/local/lib/cmake/unity/unityTargets-noconfig.cmake
+/usr/local/lib/cmake/unity/unityConfig.cmake
+/usr/local/lib/cmake/unity/unityConfigVersion.cmake
